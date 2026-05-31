@@ -15,6 +15,24 @@
 
 ---
 
+## Cross-Cutting Credibility Heuristics
+
+Use these signals when evaluating any source, regardless of tier:
+
+| Signal | Higher credibility | Lower credibility |
+|---|---|---|
+| Sample size | Large, varied populations | Small, homogeneous |
+| Measurement | PSG, actigraphy + subjective | Self-report only |
+| Funding independence | NIH, foundation grants | Product company |
+| Replication | Replicated across labs | Single study, own lab only |
+| Language | "May," "in this study," "we found" | "Proven," "always," "destroys" |
+| Conflict disclosure | Explicit, detailed | Absent or vague |
+| Outcome type | Clinical (health, cognition) | Proxy (HRV, "sleep score") |
+
+**Key framing distinction:** The biggest practical trap in sleep science is confusing *effect exists* (often true) with *effect size is clinically meaningful* (often overstated). A mechanism that is real under controlled lab conditions doesn't automatically mean the practical intervention produces meaningful change at real-world doses over real-world timescales. This gap between mechanistic clarity and clinical significance is where most genuine disagreements live.
+
+---
+
 ## Tier 1 — Personal Observed Data
 
 **What counts:** Anything the user has directly logged, tracked, or measured across multiple nights. Crash times, bed times, wake times, supplement timing, subjective ratings, mid-night wakes.
