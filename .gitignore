@@ -1,3 +1,8 @@
+# Tooling (not part of submission)
+.claude/
+.mcp.json
+.firecrawl/
+
 # OS
 .DS_Store
 Thumbs.db
