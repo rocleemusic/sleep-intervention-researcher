@@ -23,6 +23,8 @@ Any format works — plain text, markdown, a table, a photo of a notebook.
 
 **No log yet?** Use `reference/log-template.md` — it has the full field list with a blank entry you can copy and notes on what each field captures.
 
+**Want to test first?** Use `reference/demo-sleep-log.md` — 7 nights of fictional data with a mid-log intervention. Load it and ask: *"I started magnesium on Night 4 and my sleep is improving. Is it working?"*
+
 The more nights, the better. Five nights minimum for pattern investigation.
 
 ### 3. Tell the researcher what pattern you're investigating
