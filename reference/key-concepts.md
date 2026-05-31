@@ -19,7 +19,7 @@
 
 **90-minute cycle:** Approximately 4-6 cycles per night. First cycles: mostly N3. Later cycles: mostly REM.
 
-**Disruption relevance:** Roc's mid-night wake (~5am) cuts into a REM-dominant phase. This explains why the feeling rating can be low even when total is reasonable.
+**Disruption relevance:** A mid-night or early-morning wake cuts into a REM-dominant phase. This explains why the feeling rating can be low even when total sleep is reasonable.
 
 **Source basis:** Standard polysomnographic staging; AASM scoring manual.
 
