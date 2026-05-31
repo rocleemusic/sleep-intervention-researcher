@@ -58,7 +58,7 @@
 
 **Cortisol rhythm:** Peaks within 30-45 minutes of waking (cortisol awakening response). Declines through the day. Evening cortisol is low — alertness in the evening is primarily maintained by circadian drive and adenosine resistance, not cortisol.
 
-**Relevance to Roc's pattern:** Roc's work ending at ~5:30-6pm followed by a crash at 8-9pm is consistent with the circadian window approaching biological night. The circadian drive for wakefulness wanes in the evening as melatonin onset approaches. This is predicted.
+**Relevance to evening crash patterns:** Work ending in late afternoon followed by a crash 2–3 hours later is consistent with the circadian window approaching biological night. The circadian drive for wakefulness wanes in the evening as melatonin onset approaches. This is predicted.
 
 **Source basis:** Borbély (2022), Pubmed 35502706; standard circadian biology literature.
 
