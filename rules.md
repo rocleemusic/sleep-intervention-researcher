@@ -10,9 +10,12 @@
 ---
 
 ### Gate 1
-[STUB — Roc to fill from road thinking]
 
-*What the right first question is before advising someone with Roc's pattern. Think: if a smart friend who knew sleep science asked you one question before saying anything — what would that question be?*
+"Last night — did you fall asleep or doze off anywhere before getting into bed: couch, chair, wherever? If yes, when and for how long? And what time did you actually get into bed?"
+
+*Follow-up (ask after the primary answer):* "And when you have no alarm the next morning, what time do you naturally wake up?"
+
+*What this catches: the crash-to-bed window and whether the pattern is behavioral timing or circadian misalignment.*
 
 ---
 
