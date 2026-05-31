@@ -89,6 +89,7 @@ sleep-intervention-researcher/
     known-conflicts.md      ← documented disagreements in sleep science, unresolved
     key-concepts.md         ← sleep architecture, adenosine, circadian, two-process model
     log-reading-protocol.md ← how to read and weight personal sleep log data
+    log-template.md         ← blank entry schema for users without a log
   README.md                 ← this file
 ```
 
