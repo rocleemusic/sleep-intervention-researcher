@@ -224,7 +224,7 @@ Standardization problem: most valerian studies cannot be compared because active
 
 **Unresolved:** The subjective/objective dissociation is itself the finding. Whether valerian produces real physiological change that PSG doesn't capture, or produces perceived improvement via non-sleep mechanisms (anxiolytic effect, placebo, GABA modulation of subjective state without changing architecture), is not established.
 
-**Relevance — Roc's specific situation:**
-- Product: Gaia Herbs valerian, 1047mg extract, 1.8mg valerenic acids = 0.17% valerenic acid content. Lower than the 0.8% standard benchmark — high-end extraction but lower-than-standard active compound delivery.
-- Stack confound: valerian was added Night 2 alongside magnesium glycinate, tart cherry juice, and the dinner walk. It has never been isolated. No signal about valerian specifically is possible from the current log.
-- Timeline: single-dose studies show no effect; multi-week trials show subjective improvement beginning at 2–4 weeks. Current log is in early nights — too early for any valerian signal even if it were isolated.
+**Relevance:**
+- Standardization: check the product's valerenic acid content. The 0.8% benchmark is common; products vary widely and many do not disclose this. Lower active compound content means the dose may not match study conditions even when the mg count matches.
+- Stack confound: if valerian was added alongside other interventions, no signal about it specifically is possible from the log. It must be isolated to evaluate.
+- Timeline: single-dose studies show no effect; multi-week trials show subjective improvement beginning at 2–4 weeks. Early nights of use are too soon for any signal even if isolated.
