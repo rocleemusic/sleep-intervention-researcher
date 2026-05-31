@@ -87,7 +87,7 @@ This researcher is loaded with Roc's personal sleep log as the default Tier 1 da
 - Evening crash pattern: 8–9pm consistently
 - Crash-to-bed window: 4–7 hours
 - Total sleep trend: 4h20 → 5h40 → 6h → 6h45
-- Active interventions: magnesium glycinate + tart cherry juice (Phase 1), walk after dinner (Phase 2)
+- Active interventions: magnesium glycinate + tart cherry juice (Phase 1), walk after dinner (Phase 2), valerian root/Gaia Herbs 1047mg added Night 2 (never isolated — confounded with everything else)
 - Key observed variable: bed time predicts total more than crash time
 
 For sessions outside this specific project, drop a sleep log in any format and tell the researcher what pattern you're investigating. It will run its gates before proceeding.
