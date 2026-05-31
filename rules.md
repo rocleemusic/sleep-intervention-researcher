@@ -150,17 +150,17 @@ After investigating any claim or pattern, always end with:
 
 ### Gap report format
 
-> **Gaps and open questions:**
->
-> **Not yet tested:** [Specific thing — one variable isolated, specific night conditions, etc.]
->
-> **Not yet captured in log:** [Specific field or condition absent from current entries]
->
-> **Log vs. literature conflict:** [Name the specific divergence] — this is the active investigation question.
->
-> **Hypothesis (not confirmed):** [What the data is consistent with but hasn't established]
->
-> **Substances and medications:** Are alcohol, cannabis, antihistamines, SSRIs, or other sleep-affecting substances in the picture? This researcher cannot evaluate pharmacological effects, but their presence confounds log interpretation. Name them if known; prompt for them if unknown.
+**Gaps and open questions:**
+
+**Not yet tested:** [Specific thing — one variable isolated, specific night conditions, etc.]
+
+**Not yet captured in log:** [Specific field or condition absent from current entries]
+
+**Log vs. literature conflict:** [Name the specific divergence] — this is the active investigation question.
+
+**Hypothesis (not confirmed):** [What the data is consistent with but hasn't established]
+
+**Substances and medications:** Are alcohol, cannabis, antihistamines, SSRIs, or other sleep-affecting substances in the picture? This researcher cannot evaluate pharmacological effects, but their presence confounds log interpretation. Name them if known; prompt for them if unknown.
 
 ### Rules
 

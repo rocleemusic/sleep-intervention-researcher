@@ -51,17 +51,17 @@ Your 9pm crash is a predicted high-pressure event: 12 hours awake, adenosine at 
 - **Feeling (1–5)** — captures what total misses.
 - **Active interventions** — what's running each night.
 
-> **Gaps and open questions:**
->
-> **Not yet tested:** Whether crash time is stable or variable. Whether the 3-hour couch episode is nightly or occasional.
->
-> **Not yet captured:** Dinner timing, couch-sleep duration as a tracked field, mid-night wakes after the 1:30am bedtime.
->
-> **Log vs. literature conflict:** The framework predicts a discrete evening energy dip. A 3-hour sleep episode is larger than a dip — the active question is whether the couch sleep is the night's real first sleep cycle, displaced earlier.
->
-> **Hypothesis (not confirmed):** Crash is a normal high-pressure evening event; couch sleep discharges enough pressure to compromise in-bed sleep. Consistent with one night of recalled data — not established by it.
->
-> **Substances and medications:** Are alcohol, cannabis, antihistamines, SSRIs, or other substances in the picture? Not evaluatable here, but their presence confounds log interpretation.
+**Gaps and open questions:**
+
+**Not yet tested:** Whether crash time is stable or variable. Whether the 3-hour couch episode is nightly or occasional.
+
+**Not yet captured:** Dinner timing, couch-sleep duration as a tracked field, mid-night wakes after the 1:30am bedtime.
+
+**Log vs. literature conflict:** The framework predicts a discrete evening energy dip. A 3-hour sleep episode is larger than a dip — the active question is whether the couch sleep is the night's real first sleep cycle, displaced earlier.
+
+**Hypothesis (not confirmed):** Crash is a normal high-pressure evening event; couch sleep discharges enough pressure to compromise in-bed sleep. Consistent with one night of recalled data — not established by it.
+
+**Substances and medications:** Are alcohol, cannabis, antihistamines, SSRIs, or other substances in the picture? Not evaluatable here, but their presence confounds log interpretation.
 
 ---
 
@@ -116,17 +116,17 @@ Three candidate mechanisms, all **[Tier 2]**, none isolated in this log:
 
 Is the crash time movable? Five nights of intervention and crash time has been stable at 8–9pm. The investigation cannot yet determine whether this stability is a ceiling or a sample size problem. Dinner timing and caffeine cutoff are the two uncontrolled variables most likely to answer this — neither is in the log.
 
-> **Gaps and open questions:**
->
-> **Not yet tested:** Whether crash time can be shifted at all with the current intervention stack.
->
-> **Not yet captured:** Dinner timing (postprandial candidate — one night logged out of five). Caffeine cutoff — entirely absent from the log.
->
-> **Log vs. literature conflict:** Phase 2 (evening walk) predicts a delayed crash. Log shows crash time did not delay on walk nights. Either the hypothesis is wrong for this pattern, the mechanism requires more nights to show, or confounds are swamping it.
->
-> **Hypothesis (not confirmed):** Crash at 8–9pm may be the ceiling for the current stack — fixed by adenosine load and circadian timing. If so, bed time is the tractable variable, not crash time.
->
-> **Substances and medications:** Log does not capture alcohol or other sleep-affecting substances. Are any present?
+**Gaps and open questions:**
+
+**Not yet tested:** Whether crash time can be shifted at all with the current intervention stack.
+
+**Not yet captured:** Dinner timing (postprandial candidate — one night logged out of five). Caffeine cutoff — entirely absent from the log.
+
+**Log vs. literature conflict:** Phase 2 (evening walk) predicts a delayed crash. Log shows crash time did not delay on walk nights. Either the hypothesis is wrong for this pattern, the mechanism requires more nights to show, or confounds are swamping it.
+
+**Hypothesis (not confirmed):** Crash at 8–9pm may be the ceiling for the current stack — fixed by adenosine load and circadian timing. If so, bed time is the tractable variable, not crash time.
+
+**Substances and medications:** Log does not capture alcohol or other sleep-affecting substances. Are any present?
 
 ---
 
@@ -185,14 +185,14 @@ Melatonin is a circadian phase signal, not a sedative — it shifts the timing o
 
 Is adenosine or postprandial the dominant driver of the 9pm crash? That distinction determines whether the walk will move it. If adenosine-primary (12 hours awake), the walk addresses a secondary mechanism and may delay the crash by 30–60 minutes but is unlikely to prevent it. Dinner timing is a cheaper, lower-effort test of the postprandial hypothesis than adding a walk.
 
-> **Gaps and open questions:**
->
-> **Not yet tested:** Whether earlier dinner timing (6:30pm vs. 8:30pm) shifts or prevents the crash — if postprandial is a meaningful contributor, dinner timing isolates it more cleanly than the walk.
->
-> **Not yet captured:** Crash variation across nights with different dinner times. Whether the crash happens on nights without a late dinner.
->
-> **Unresolved mechanism:** Adenosine vs. postprandial as primary driver. Walk targets postprandial only — if adenosine is primary, it won't prevent the crash.
->
-> **Hypothesis (not confirmed):** Crash is adenosine-primary with postprandial amplification. If correct, the walk may delay the crash but not prevent it. Earlier dinner timing is the lower-cost test.
->
-> **Substances and medications:** Melatonin dose and timing need to be named before evaluating any other intervention. Any other substances in the evening picture?
+**Gaps and open questions:**
+
+**Not yet tested:** Whether earlier dinner timing (6:30pm vs. 8:30pm) shifts or prevents the crash — if postprandial is a meaningful contributor, dinner timing isolates it more cleanly than the walk.
+
+**Not yet captured:** Crash variation across nights with different dinner times. Whether the crash happens on nights without a late dinner.
+
+**Unresolved mechanism:** Adenosine vs. postprandial as primary driver. Walk targets postprandial only — if adenosine is primary, it won't prevent the crash.
+
+**Hypothesis (not confirmed):** Crash is adenosine-primary with postprandial amplification. If correct, the walk may delay the crash but not prevent it. Earlier dinner timing is the lower-cost test.
+
+**Substances and medications:** Melatonin dose and timing need to be named before evaluating any other intervention. Any other substances in the evening picture?
