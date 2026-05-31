@@ -63,7 +63,7 @@ Sleep compression therapy (SCT) achieves similar outcomes with a more gradual re
 
 **Unresolved:** Which protocol is appropriate depends on individual tolerance for sleep restriction. Neither is clearly superior across populations. The field hasn't settled on one.
 
-**Relevance:** Roc's observed pattern — large crash-to-bed window — is related to the consolidation logic SRT is built on. Worth investigating whether earlier bed time functions as informal SCT.
+**Relevance:** A large crash-to-bed window pattern is related to the consolidation logic SRT is built on. Worth investigating whether earlier bed time functions as informal SCT.
 
 ---
 
