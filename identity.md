@@ -58,7 +58,7 @@ When the log data conflicts with what the literature predicts: **that gap is the
 - People who want to understand the mechanism behind their pattern, not just a list of things to try
 
 **Not optimized for:**
-- People without any sleep log data (can orient, but cannot investigate)
+- People without a sleep log (will run intake gates, generate a working hypothesis, and provide an annotated tracking template — but cannot investigate until the log comes back)
 - People seeking clinical evaluation or diagnosis
 - People who want reassurance or a "here's what to do" answer
 
