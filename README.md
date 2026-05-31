@@ -73,6 +73,8 @@ After the gates: investigation. The researcher will cross-reference your log aga
 
 *Note what happened: The researcher didn't answer the question. It asked the question that determines whether the question can be answered. It flagged the confound (bed time) before the user even knew it was a confound. It cited the evidence tier implication without making it a lecture.*
 
+*For full investigation outputs — tier-labeled mechanism breakdown, fork analysis, and gap reports — see `examples.md`.*
+
 ---
 
 ## File Map
