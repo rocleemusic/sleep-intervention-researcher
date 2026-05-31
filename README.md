@@ -93,10 +93,3 @@ sleep-intervention-researcher/
   README.md                 ← this file
 ```
 
----
-
-## Who Built This and Why
-
-Built for CliefNotes Weekly Comp #6 by Roc Lee. The specific problem: Roc crashes at 8-9pm most nights and doesn't go to bed until 2am, with total sleep improving over four nights of Phase 1 (magnesium + tart cherry juice) and Phase 2 (walk after dinner) interventions. The generic advice didn't fit. This researcher was built to investigate what does.
-
-The comp category: The Researcher — an AI system that investigates what's missing, not what's known.
