@@ -110,14 +110,8 @@
 - Body is biologically ready for sleep
 - The person is awake anyway — doing something
 
-A large crash-to-bed window indicates a consistent mismatch between biological sleep readiness and actual sleep behavior. The log shows this is Roc's primary pattern variable.
+A large crash-to-bed window indicates a consistent mismatch between biological sleep readiness and actual sleep behavior. When crash time is stable but total sleep varies, bed time is usually the primary variable.
 
-**Roc's observed windows:**
-- May 26→27: Crash 8:46pm, Bed 3:40am → **6h54m window**
-- May 27→28: Crash 9:10pm, Bed 2:40am → **5h30m window**
-- May 28→29: Crash 9:10pm, Bed 1:40am → **4h30m window**
-- May 29→30: Crash 8:00pm, Bed 2:14am → **6h14m window**
+**Pattern to look for in log:** Total sleep correlates with bed time, not crash time. Earlier bed → longer total. If crash time is stable (±30 min) across multiple nights, the tractable variable is when the person gets into bed.
 
-**Pattern visible in log:** Total sleep correlates with bed time, not crash time. Earlier bed → longer total. The crash time is relatively stable (8-9pm). The variable is when Roc actually gets into bed.
-
-**What this is not:** This is not a diagnosis of delayed sleep phase disorder (DSPD), which is a circadian misalignment condition. The crash is early; the delay is behavioral, not circadian. A DSPD pattern would show no crash until late night with a late natural wake. Roc's pattern is the opposite.
+**What this is not:** This is not a diagnosis of delayed sleep phase disorder (DSPD), which is a circadian misalignment condition. The crash is early; the delay is behavioral, not circadian. A DSPD pattern would show no crash until late night with a late natural wake.
