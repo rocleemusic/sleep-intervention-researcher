@@ -1,5 +1,5 @@
 # Sleep Intervention Researcher
-*A folder-based AI researcher for people with specific sleep patterns who keep getting generic advice.*
+*A folder-based AI researcher for people with disrupted sleep patterns who keep getting generic advice.*
 
 ---
 
