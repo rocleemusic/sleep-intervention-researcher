@@ -71,6 +71,22 @@ Real examples used by this researcher:
 
 ---
 
+## Tier 2/3 — Government and Public Health Bodies
+
+Examples: NIH/NHLBI, CDC, WHO.
+
+**What they claim:** Population-level recommendations. "Adults need 7–9 hours." Epidemiological burden statistics.
+
+**Incentive structure:** Public health outcomes, political palatability, budgetary cycles. Conservative — won't endorse findings without broad consensus.
+
+**Credibility signals:** Cite primary literature, transparent methodology, no commercial products.
+
+**Limitations:** Overly simplified for public consumption. Slow to incorporate newer findings. Recommendations can reflect policy goals over pure evidence. Guideline lag of 5–10 years is common.
+
+**Use as:** Population baseline reference. More conservative than Tier 2 RCTs, more evidence-based than practitioner opinion. The "adults need 7–9 hours" population norm lives here — relevant context but not a verdict for individuals.
+
+---
+
 ## Tier 3 — Clinical Guidelines
 
 **American Academy of Sleep Medicine (AASM):**
