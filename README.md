@@ -19,13 +19,9 @@ Add the entire `sleep-intervention-researcher/` folder as project context. Every
 
 ### 2. Upload your sleep log
 
-Any format works — plain text, markdown, a table, a photo of a notebook. Include:
-- Crash time (when you fell asleep involuntarily, if applicable)
-- Bed time (when you actually got into bed)
-- Wake time
-- Total sleep (if you track it)
-- How you felt in the morning (1-5 or any consistent scale)
-- Any mid-night wakes
+Any format works — plain text, markdown, a table, a photo of a notebook.
+
+**No log yet?** Use `reference/log-template.md` — it has the full field list with a blank entry you can copy and notes on what each field captures.
 
 The more nights, the better. Five nights minimum for pattern investigation.
 
@@ -101,6 +97,3 @@ sleep-intervention-researcher/
 Built for CliefNotes Weekly Comp #6 by Roc Lee. The specific problem: Roc crashes at 8-9pm most nights and doesn't go to bed until 2am, with total sleep improving over four nights of Phase 1 (magnesium + tart cherry juice) and Phase 2 (walk after dinner) interventions. The generic advice didn't fit. This researcher was built to investigate what does.
 
 The comp category: The Researcher — an AI system that investigates what's missing, not what's known.
-
-https://crowninstitute.colorado.edu/science-love
-https://hogosystem.com/homepage/
