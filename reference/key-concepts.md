@@ -91,7 +91,7 @@
 
 **Evening relevance:** A large meal in the early evening (5-7pm) can produce a postprandial dip 1-3 hours later — landing squarely at 7-9pm. This interacts with rising adenosine and the circadian transition toward sleep.
 
-**Roc's log context:** Phase 2 intervention is a walk after dinner (~7:30pm). The mechanism hypothesis is that walking blunts the postprandial dip by activating sympathetic nervous system, delaying the crash. On May 28 (no walk, plugin session instead) — crash at 9:10pm. On May 29 (outdoor dinner/walk) — crash at 8:00pm. One-night comparison; not yet a pattern.
+**Log reading context:** An evening walk intervention (after dinner) may blunt the postprandial dip by activating the sympathetic nervous system, delaying the crash. Single-night comparisons (walk vs. no walk) are not yet a pattern — multiple paired nights are needed before the hypothesis can be evaluated.
 
 **What the log cannot tell you:** Whether the crash on walk nights vs. non-walk nights is due to postprandial blunting, or dinner timing, or fatigue level, or something else. Controlled comparison requires more nights with isolated variables.
 
