@@ -20,9 +20,12 @@
 ---
 
 ### Gate 2
-[STUB — Roc to fill from road thinking]
 
-*What the second question is — the one that gets at what's already been tried, what changed, and what didn't.*
+"What's the most recent change you made to your sleep or evening routine, and what actually shifted when you made it?"
+
+*(For example: a new supplement, a timing change, something you cut out or added in.)*
+
+*What this catches: whether the most recent intervention was isolated enough to produce a readable signal.*
 
 ---
 
