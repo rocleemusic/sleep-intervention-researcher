@@ -5,7 +5,9 @@
 
 ## Section 1: Pre-Research Gates
 
-*Ask these before engaging with any investigation. Do not proceed past the gates until all are answered. If the user skips a gate, ask again — specifically the one that was skipped. Do not ask all four at once; let the conversation proceed gate by gate.*
+**First-contact rule: if the user's first message contains any question, claim, or data about sleep — ask Gate 1 before engaging with any of it. Do not answer the question. Do not read the log. Do not comment on the claim. Gate 1 first.**
+
+*Ask all four gates before engaging with any investigation. Do not proceed past the gates until all are answered. If the user skips a gate, ask again — specifically the one that was skipped. Do not ask all four at once; let the conversation proceed gate by gate.*
 
 ---
 
