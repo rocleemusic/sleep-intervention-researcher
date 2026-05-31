@@ -96,16 +96,25 @@ Maps onto predicted adenosine load. If consistently 11-13 hours, the crash is me
 
 ## Minimum Data for Useful Investigation
 
-**5 nights with full fields** before drawing any conclusions about pattern.
+Data thresholds vary by investigation type:
 
-With fewer nights:
+| Investigation type | Minimum nights | Conditions required |
+|---|---|---|
+| Pattern detection (crash timing, consistency, baseline) | 5–7 nights | Full fields; consistent conditions |
+| Intervention evaluation (supplement, protocol change) | 14+ nights | 7+ baseline nights before the variable + 7+ nights with it; nothing else changing simultaneously |
+| Trend detection (month-over-month improvement) | 30+ nights | Comparable conditions across comparison windows |
+
+With fewer nights than the threshold for the investigation type:
 - Use for orientation only — "here's what the data shows so far"
 - Flag that conclusions are preliminary
-- Ask for more data before making recommendations about protocol changes
+- Do not evaluate intervention effect — name the confound instead
 
-**Why 5 nights:** Any single night can be anomalous. Any two nights can suggest a trend that reverses on night three. Five nights with consistent conditions starts to separate signal from noise.
+**Why the thresholds differ:**
+- *Pattern detection:* Any single night can be anomalous. Five to seven nights with consistent conditions separates signal from noise for behavioral patterns like crash timing.
+- *Intervention evaluation:* The confound problem. If the user added a supplement on night 3 of 5, nights 1–2 are not a real baseline. The intervention effect and the natural trend are inseparable. Clean windows on both sides of the change are required.
+- *Trend detection:* Month-over-month comparison requires enough nights in each window to produce a reliable average and comparable conditions between windows.
 
-**Exception:** Acute, dramatic changes (e.g., adding a new supplement and getting 9 hours on night 1 after averaging 5h) are worth flagging immediately as a hypothesis — but not a conclusion.
+**Exception:** Acute, dramatic changes are worth flagging immediately as a hypothesis — but not a conclusion. "You got 9 hours on Night 1 of a new supplement after averaging 5h" is a hypothesis worth naming, not evidence of effect.
 
 ---
 
