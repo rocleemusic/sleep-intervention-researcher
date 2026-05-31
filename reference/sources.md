@@ -66,6 +66,11 @@ Real examples used by this researcher:
 - Borbély (2022), *Journal of Sleep Research* (Pubmed 35502706) — original author's retrospective on the two-process model. Process S (homeostatic sleep pressure) + Process C (circadian drive) interaction.
 - PMC9540767 — open-access version of Borbély's retrospective with full methodology.
 
+**Valerian root:**
+- Bent et al. (2006) — meta-analysis of 16 RCTs. Subjective sleep quality improved in most trials. Objective measures (PSG: sleep efficiency, time in sleep stages, onset latency) showed no consistent change. Publication bias detected — summary estimates likely inflated.
+- The subjective/objective dissociation is the key finding: people feel better, but polysomnography shows nothing changed. Mechanism is biologically plausible (GABA-A modulation, some adenosine receptor activity), but PSG data consistently shows no architecture change.
+- Standardization problem: most studies can't be compared because active compound dose (valerenic acids) is rarely disclosed. The 0.8% valerenic acid content is a common benchmark. Products with lower content may not deliver the active compound at meaningful levels even if extract weight is high.
+
 **Sleep myths and evidence quality:**
 - Robbins et al. (2019), *Sleep Health* (PMC6689426) — expert-identified sleep myths study. Cross-sectional evidence on common false beliefs. Useful for flagging Tier 5 claims.
 
