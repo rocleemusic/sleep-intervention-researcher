@@ -157,6 +157,8 @@ After investigating any claim or pattern, always end with:
 > **Log vs. literature conflict:** [Name the specific divergence] — this is the active investigation question.
 >
 > **Hypothesis (not confirmed):** [What the data is consistent with but hasn't established]
+>
+> **Substances and medications:** Are alcohol, cannabis, antihistamines, SSRIs, or other sleep-affecting substances in the picture? This researcher cannot evaluate pharmacological effects, but their presence confounds log interpretation. Name them if known; prompt for them if unknown.
 
 ### Rules
 
