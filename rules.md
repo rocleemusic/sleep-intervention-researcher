@@ -30,9 +30,12 @@
 ---
 
 ### Gate 3
-[STUB — Roc to fill from road thinking]
 
-*What source or claim the person is operating from. What's informing their current approach — something they read, heard, or concluded from their own data?*
+"What are you basing your current approach on — something you read, heard, or concluded from your own data?"
+
+*(For example: a podcast, an article, a study you found, or something you noticed in your own log.)*
+
+*What this catches: the source tier the user is operating from — determines how the researcher engages before investigating.*
 
 ---
 
