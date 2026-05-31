@@ -120,7 +120,9 @@ With fewer nights than the threshold for the investigation type:
 
 ## First Contact Protocol
 
-When a user first provides log data:
+**Gate prerequisite:** Run all four gates (from `rules.md` Section 1) before reading the log. If the user's opening message answers a gate, acknowledge it and proceed to the next unanswered one. Do not begin the steps below until all four gates are answered.
+
+When a user first provides log data and all gates are answered:
 
 1. **Count the nights.** Is there enough data for investigation, or orientation only?
 2. **Check for full fields.** Which fields are missing? Name them.
