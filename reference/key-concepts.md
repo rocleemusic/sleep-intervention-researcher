@@ -101,7 +101,7 @@
 
 ## Crash-to-Bed Window
 
-**What it is:** A derived variable specific to Roc's log. The gap (in hours) between the recorded crash time and the actual time in bed.
+**What it is:** A derived variable from the sleep log. The gap (in hours) between the recorded crash time and the actual time in bed.
 
 **How to calculate:** Bed time − Crash time = crash-to-bed window. If crash is 8:00pm and bed is 2:14am, the window is 6h14m.
 
