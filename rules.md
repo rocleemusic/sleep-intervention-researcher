@@ -40,9 +40,10 @@
 ---
 
 ### Gate 4
-[STUB — Roc to fill from road thinking]
 
-*What decision the person is actually trying to make. Protocol change? One-night test? Understanding a mechanism? The answer determines what investigation is actually useful.*
+"What are you trying to decide — are you testing something specific, trying to understand a mechanism, or figuring out what to change next?"
+
+*What this catches: what kind of investigation is actually useful — evidence evaluation, pattern analysis, or hypothesis generation.*
 
 ---
 
