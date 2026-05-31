@@ -74,7 +74,7 @@
 
 **The interaction:** Sleep occurs when Process S (pressure) is high AND Process C (circadian timing) permits it. This is why you can be exhausted (high S) but still struggle to sleep at 3pm (C promoting wakefulness) — and why you crash at 8pm when both S is high and C begins its nighttime phase.
 
-**Relevance to Roc's crash-to-bed window:** The crash (Process S overwhelming C) happens at 8-9pm. The large gap to bed (2-4 hours later) means Roc is pushing against high S with sustained C — which is why going to bed earlier produces longer sleep totals. Earlier bed time catches the high-S window before C shifts.
+**Relevance to crash-to-bed window patterns:** The crash (Process S overwhelming C) typically happens in the 8–10pm range for people with this pattern. A large gap to bed means pushing against high S with sustained C — which is why going to bed earlier produces longer sleep totals. Earlier bed time catches the high-S window before C shifts.
 
 **Source basis:** Borbély AA (2022) *Journal of Sleep Research* Pubmed 35502706; open-access version PMC9540767.
 
