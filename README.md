@@ -92,6 +92,7 @@ sleep-intervention-researcher/
     key-concepts.md         ← sleep architecture, adenosine, circadian, two-process model
     log-reading-protocol.md ← how to read and weight personal sleep log data
     log-template.md         ← blank entry schema for users without a log
+    demo-sleep-log.md       ← 7 nights of fictional data for testing the researcher
   README.md                 ← this file
 ```
 
