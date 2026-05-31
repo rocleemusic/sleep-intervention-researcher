@@ -204,7 +204,7 @@ Daytime sleep dissipates homeostatic sleep pressure (Process S), reducing the ef
 
 **Unresolved:** Population matters. In insomnia populations, naps reliably worsen outcomes. In healthy non-insomniacs with adequate nighttime sleep, the effect is smaller than the insomnia literature suggests. The blanket "no napping" advice applies primarily to insomnia populations but persists in popular sleep content as a universal rule.
 
-**Relevance:** Roc's pre-bed couch dozing is functionally a nap. Flag whether these pre-bed sleep episodes are reducing homeostatic pressure and contributing to the crash-to-bed window pattern.
+**Relevance:** Pre-bed dozing (couch sleep, chair sleep before getting into bed) is functionally a nap. Flag whether these pre-bed sleep episodes are reducing homeostatic pressure and contributing to the crash-to-bed window pattern.
 
 ---
 
