@@ -45,7 +45,7 @@ URL: https://www.hubermanlab.com/newsletter/improve-your-sleep
 
 **Unresolved:** Some components have plausible mechanisms and weak positive data. None have been tested as a combined protocol. Huberman himself notes results vary by individual.
 
-**Relevance:** Roc is currently using magnesium glycinate + tart cherry juice. Glycinate has the strongest magnesium-sleep evidence base of any form. This is consistent with Tier 2 even though derived from a Tier 4 source.
+**Relevance:** Glycinate has the strongest magnesium-sleep evidence base of any magnesium form. If the user's source is a Tier 4 practitioner recommendation, check which form was specified and whether it matches the evidence base.
 
 ---
 
