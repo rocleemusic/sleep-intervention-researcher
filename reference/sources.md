@@ -136,7 +136,16 @@ Examples: NIH/NHLBI, CDC, WHO.
 
 **URL:** https://www.hubermanlab.com/newsletter/improve-your-sleep
 
-**Assessment:** Circadian protocols are generally well-grounded. Supplement stack extrapolates from weak or indirect evidence. Flag tier before engaging with any specific Huberman claim.
+**Documented conflict of interest — Momentous sponsorship:**
+Huberman has a sponsorship relationship with Momentous, which sells the exact compounds in his recommended supplement stack. Documented in *New York Magazine* and *The Guardian* (2023–24). Disclosures exist but the supplements are recommended in contexts that present them as scientifically validated when the underlying evidence is preliminary.
+
+**Specific mechanism error — morning sunlight:**
+Huberman claims morning sunlight must be viewed *outside* because windows block the relevant wavelengths for circadian entrainment. This is a mechanistic error. Standard glass blocks UV light, not the ~480nm visible range that drives ipRGC activation and circadian clock setting. UV is irrelevant to this pathway. The recommendation to go outside has value (typically brighter than indoor light), but the mechanistic explanation for why windows don't work is wrong.
+
+**NSDR dopamine claim — population extrapolation problem:**
+Huberman's claim that NSDR (yoga nidra) restores dopamine levels is based primarily on Kjaer et al. (2002) and related research — conducted in Parkinson's patients with dopaminergic deficit. Extrapolating from a clinical population with impaired dopamine function to healthy adults is a substantial inferential leap not supported by the cited study. The dopamine replenishment framing implies a direct mechanism in healthy people that has not been established.
+
+**Assessment:** Circadian protocols are generally well-grounded. Supplement stack extrapolates from weak or indirect evidence. Mechanism claims (sunlight wavelengths, NSDR dopamine) sometimes contain specific errors traceable to source misapplication. Flag tier before engaging with any specific Huberman claim.
 
 ---
 
