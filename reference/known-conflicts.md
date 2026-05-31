@@ -126,7 +126,7 @@ Magnesium glycinate is presented as a reliable sleep aid — improves sleep onse
 - Elderly/deficient population RCTs: Tier 2 (limited generalizability)
 - Healthy adult RCTs: Tier 2, weak (small N, short duration, self-report outcomes)
 
-**Unresolved:** The mechanism (magnesium as NMDA antagonist, GABA modulation) is plausible. Effect size in healthy populations is uncertain. Roc's 4-night log does not yet have enough pre-intervention nights to isolate the intervention effect.
+**Unresolved:** The mechanism (magnesium as NMDA antagonist, GABA modulation) is plausible. Effect size in healthy populations is uncertain. Evaluating whether it's working requires a pre-intervention baseline (7+ nights before starting) — without it, improving totals can't be attributed to the supplement.
 
 **Relevance:** Roc began Phase 1 (mag + cherry juice) on May 26. With only 4 nights logged, the trend (5h40 → 6h → 6h45) is suggestive but confounded by other variables (bed time, walk, work end time). The research cannot attribute improvement to the supplement at this data density.
 
