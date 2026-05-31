@@ -105,9 +105,9 @@ These three mechanisms are not mutually exclusive and are often presented as com
 - Adenosine: Tier 2 (strong mechanistic evidence, animal and human)
 - Postprandial: Tier 2-3 (well-documented phenomenon, timing specific)
 - Cortisol: Tier 2 (circadian biology well-established)
-- Their relative contribution to Roc's specific evening crash: unknown — no data
+- Their relative contribution to any individual's specific evening crash: unknown without controlled isolation
 
-**Unresolved:** All three mechanisms are real. Which is primary for Roc's specific crash pattern (8-9pm, ~2 hours post-work) cannot be determined from the log data alone. This is an active gap in the investigation.
+**Unresolved:** All three mechanisms are real. Which is primary for any individual's crash pattern cannot be determined from log data alone — only controlled isolation (consistent wake time, caffeine cutoff, dinner timing tracked separately) begins to separate them.
 
 ---
 
